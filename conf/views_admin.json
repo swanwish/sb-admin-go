@@ -1,0 +1,145 @@
+{
+  "views": [
+    {
+      "id": "flot",
+      "pageTitle": "SB Admin 2 - Bootstrap Admin Theme",
+      "pageHeader": "Flot",
+      "templates": [
+        "templates/flot.tpl"
+      ],
+      "scripts": [
+        "/static/libs/flot/excanvas.min.js",
+        "/static/libs/flot/jquery.flot.js",
+        "/static/libs/flot/jquery.flot.pie.js",
+        "/static/libs/flot/jquery.flot.resize.js",
+        "/static/libs/flot/jquery.flot.time.js",
+        "/static/libs/flot.tooltip/js/jquery.flot.tooltip.min.js",
+        "/static/js/flot-data.js"
+      ],
+      "styles": [
+        {
+          "href": "/static/libs/morrisjs/morris.css",
+          "rel": "stylesheet"
+        }
+      ]
+    },
+    {
+      "id": "morris",
+      "pageTitle": "SB Admin 2 - Bootstrap Admin Theme",
+      "pageHeader": "Morris.js Charts",
+      "templates": [
+        "templates/morris.tpl"
+      ],
+      "scripts": [
+        "/static/libs/morrisjs/morris.min.js",
+        "/static/libs/raphael/raphael-min.js",
+        "/static/js/morris-data.js"
+      ],
+      "styles": [
+        {
+          "href": "/static/libs/morrisjs/morris.css",
+          "rel": "stylesheet"
+        }
+      ]
+    },
+    {
+      "id": "tables",
+      "pageTitle": "SB Admin 2 - Bootstrap Admin Theme",
+      "pageHeader": "Tables",
+      "templates": [
+        "templates/tables.tpl"
+      ],
+      "scripts": [
+        "/static/libs/datatables/media/js/jquery.dataTables.min.js",
+        "/static/libs/datatables-plugins/integration/bootstrap/3/dataTables.bootstrap.min.js"
+      ],
+      "styles": [
+        {
+          "href": "/static/libs/morrisjs/morris.css",
+          "rel": "stylesheet"
+        },
+        {
+          "href": "/static/libs/datatables-responsive/css/dataTables.responsive.css",
+          "rel": "stylesheet"
+        },
+        {
+          "href": "/static/libs/datatables-plugins/integration/bootstrap/3/dataTables.bootstrap.css",
+          "rel": "stylesheet"
+        }
+      ]
+    },
+    {
+      "id": "forms",
+      "pageTitle": "SB Admin 2 - Bootstrap Admin Theme",
+      "pageHeader": "Forms",
+      "templates": [
+        "templates/forms.tpl"
+      ]
+    },
+    {
+      "id": "panels-wells",
+      "pageTitle": "SB Admin 2 - Bootstrap Admin Theme",
+      "pageHeader": "Panels and Wells",
+      "templates": [
+        "templates/panels-wells.tpl"
+      ]
+    },
+    {
+      "id": "buttons",
+      "pageTitle": "SB Admin 2 - Bootstrap Admin Theme",
+      "pageHeader": "Buttons",
+      "templates": [
+        "templates/buttons.tpl"
+      ]
+    },
+    {
+      "id": "notifications",
+      "pageTitle": "SB Admin 2 - Bootstrap Admin Theme",
+      "pageHeader": "Notifications",
+      "templates": [
+        "templates/notifications.tpl"
+      ]
+    },
+    {
+      "id": "typography",
+      "pageTitle": "SB Admin 2 - Bootstrap Admin Theme",
+      "pageHeader": "Typography",
+      "templates": [
+        "templates/typography.tpl"
+      ]
+    },
+    {
+      "id": "icons",
+      "pageTitle": "SB Admin 2 - Bootstrap Admin Theme",
+      "pageHeader": "Icons",
+      "templates": [
+        "templates/icons.tpl"
+      ]
+    },
+    {
+      "id": "grid",
+      "pageTitle": "SB Admin 2 - Bootstrap Admin Theme",
+      "pageHeader": "Grid",
+      "templates": [
+        "templates/grid.tpl"
+      ]
+    },
+    {
+      "id": "blank",
+      "pageTitle": "SB Admin 2 - Bootstrap Admin Theme",
+      "pageHeader": "Blank",
+      "templates": [
+        "templates/blank.tpl"
+      ]
+    },
+    {
+      "id": "login",
+      "view":"login.tpl",
+      "pageTitle": "SB Admin 2 - Bootstrap Admin Theme",
+      "pageHeader": "Login",
+      "templates": [
+        "templates/login.tpl"
+      ]
+    }
+  ]
+}

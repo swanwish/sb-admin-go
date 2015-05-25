@@ -1,0 +1,36 @@
+{
+  "commonTemplates": [
+    "templates/common/header.tpl",
+    "templates/common/menu.tpl",
+    "templates/common/bottom_scripts.tpl",
+    "templates/common/footer.tpl",
+    "templates/common/page.tpl"
+  ],
+  "commonView": "page.tpl",
+  "defaultViewId": "index",
+  "loginViewId": "login",
+  "importViews": [
+    "views_admin.json"
+  ],
+  "views": [
+    {
+      "id": "index",
+      "pageTitle": "SB Admin 2 - Bootstrap Admin Theme",
+      "pageHeader": "Dashboard",
+      "templates": [
+        "templates/index.tpl"
+      ],
+      "scripts": [
+        "/static/libs/morrisjs/morris.min.js",
+        "/static/libs/raphael/raphael-min.js",
+        "/static/js/morris-data.js"
+      ],
+      "styles": [
+        {
+          "href": "/static/libs/morrisjs/morris.css",
+          "rel": "stylesheet"
+        }
+      ]
+    }
+  ]
+}
