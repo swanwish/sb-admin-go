@@ -1,0 +1,8 @@
+github.com/AeroNotix/libsmtp v0.0.0-20140509103022-4d9c30fd8115 h1:QmKpaLsLAtCZyFx8PhAQMbRe/DGZImf9Cq+nk5DcBA4=
+github.com/AeroNotix/libsmtp v0.0.0-20140509103022-4d9c30fd8115/go.mod h1:62Q3v7T5J57HOgQiLlU0HimR7KFx4QzFZwyeB9DRtOY=
+github.com/gorilla/mux v1.8.0 h1:i40aqfkR1h2SlN9hojwV5ZA91wcXFOvkdNIeFDP5koI=
+github.com/gorilla/mux v1.8.0/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
+github.com/nu7hatch/gouuid v0.0.0-20131221200532-179d4d0c4d8d h1:VhgPp6v9qf9Agr/56bj7Y/xa04UccTW04VP0Qed4vnQ=
+github.com/nu7hatch/gouuid v0.0.0-20131221200532-179d4d0c4d8d/go.mod h1:YUTz3bUH2ZwIWBy3CJBeOBEugqcmXREj14T+iG/4k4U=
+github.com/swanwish/go-helper v0.0.0-20150820072216-b5032586f305 h1:YmM0t6n0wfgYzDeYHx5qOloJ5UDJxQiXZv6IvOgzgmo=
+github.com/swanwish/go-helper v0.0.0-20150820072216-b5032586f305/go.mod h1:ETNhG4wnmuEqMiJvtlSSrODuXoFxqkspBGw5jYKiAE0=
